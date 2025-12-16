@@ -132,7 +132,7 @@ int main()
     }
     cout << endl;
     cout << "TADAAA!" << endl;
-    
+
     // Program end
     cout << "\nProgram execution completed." << endl;
     return 0;
